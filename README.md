@@ -1,7 +1,7 @@
 # Docker-With-Continuous-Integration
 Learn devops and CI from Udemy course that Use Docker With Continous Integration To Build A DevOps Automated Workflow 
 
-![alt text](https://github.com/smalltide/TalkMap/blob/master/screenshot.png "Docker-With-Continuous-Integration")
+![alt text](https://github.com/smalltide/Docker-With-Continuous-Integration/blob/master/screenshot.png "Docker-With-Continuous-Integration")
 
 ** Course GitHub:**   
 https://github.com/bTreePress/Docker-With-Continous-Integration
