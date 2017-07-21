@@ -7,8 +7,10 @@ https://github.com/bTreePress/Docker-With-Continous-Integration
 ** Course DockerHub:**   
 https://hub.docker.com/r/btreepress/docker-with-continuous-integration/
 
+https://hub.docker.com/r/smalltides/docker-with-continuous-integration/
+
 1. nodejs
-2. CircleCI
+2. CircleCI (https://circleci.com)
 3. Docker
 4. DockerHub
 5. DockerCloud

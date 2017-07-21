@@ -2,7 +2,7 @@
   "name": "How-To-Use-Docker-With-Continous-Integration-To-Build-A-DevOps-Automated-Workflow",
   "private": true,
   "version": "0.0.1",
-  "description": "Demo for ocker CI course",
+  "description": "Demo for Docker CI course",
   "main": "app.js",
   "author": "Luke Angel",
   "dependencies": {
